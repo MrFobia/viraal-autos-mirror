@@ -31,7 +31,7 @@
         <link rel="icon" type="image/x-icon" sizes="96x96" href="/projects/viraal-marketplace/assets/media/favicon.png">
         <link rel="icon" type="image/x-icon" sizes="16x16" href="/projects/viraal-marketplace/assets/media/favicon.png">
         <link rel="image_src" href="/projects/viraal-marketplace/assets/media/bg-viraal.jpg" />
-        <link rel="canonical" href="/my-business/" />     
+        <link rel="canonical" href="/preview/854" />     
 
         <link rel="stylesheet" crossorigin href="/projects/viraal-marketplace/assets/media/bundle-content/MyBussinessTemplate/b926_4e0f/Main-17a8_d8f3.css">
         <script type="module" src="/projects/viraal-marketplace/assets/includes/libs/js/Libraries/index.js"></script>

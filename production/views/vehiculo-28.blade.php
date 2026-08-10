@@ -27,7 +27,7 @@
 <meta name="twitter:player:height" content="450">
 <meta name="twitter:image" content="../../media/bg-viraal.jpg" />
 <link rel="image_src" href="/projects/viraal-marketplace/assets/media/bg-viraal.jpg" />
-<link rel="canonical" href="/vehiculo/" />
+<link rel="canonical" href="/preview/840" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="/projects/viraal-marketplace/assets/media/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/projects/viraal-marketplace/assets/media/favicon-32x32.png">
@@ -82,12 +82,12 @@
                         </div>
                         <div class="col-8 col-xl-2 order-2 order-xl-1 d-flex justify-content-center justify-content-xl-start">
                             <div class="vehica-logo vehica-logo--white">
-                                 <a href="/" title="Backbone-viraal">
+                                 <a href="/preview/843" title="Backbone-viraal">
                                      <img src="/projects/viraal-marketplace/assets/media/logo-white.png" alt="Viraal Autos">
                                  </a>
                              </div>
                             <div class="vehica-logo vehica-logo--blue">
-                                 <a href="/" title="Backbone-viraal">
+                                 <a href="/preview/843" title="Backbone-viraal">
                                      <img src="/projects/viraal-marketplace/assets/media/V_Autos.png" alt="Viraal Autos">
                                  </a>
                              </div>
@@ -98,27 +98,27 @@
                             <div class="header-menu-custom collapse navbar-collapse py-4 py-xl-0 px-3 px-xl-0" id="navbarNavDropdown">
                                 <ul class="navbar-nav vehica-menu">
                                         <li class="nav-item menu-item " id="vehica-menu-element-menu-item-1-5044">
-                                              <a class="nav-link" aria-current="page" href="/buscador/">Buscador</a>
+                                              <a class="nav-link" aria-current="page" href="/preview/824">Buscador</a>
                                         </li>
                                         <li class="nav-item menu-item " id="vehica-menu-element-menu-item-1-5046">
-                                              <a class="nav-link" aria-current="page" href="/quienes-somos/">Qui&eacute;nes somos</a>
+                                              <a class="nav-link" aria-current="page" href="/preview/780">Qui&eacute;nes somos</a>
                                         </li>
                                         <li class="nav-item menu-item " id="vehica-menu-element-menu-item-1-5042">
-                                              <a class="nav-link" aria-current="page" href="/blog/">Blog</a>
+                                              <a class="nav-link" aria-current="page" href="/preview/867">Blog</a>
                                         </li>
                                         <li class="nav-item menu-item " id="vehica-menu-element-menu-item-1-5040">
-                                              <a class="nav-link" aria-current="page" href="/servicios/">Servicios</a>
+                                              <a class="nav-link" aria-current="page" href="/preview/859">Servicios</a>
                                         </li>
                                         <li class="nav-item menu-item " id="vehica-menu-element-menu-item-1-5039">
-                                              <a class="nav-link" aria-current="page" href="/contacto/">Contacto</a>
+                                              <a class="nav-link" aria-current="page" href="/preview/868">Contacto</a>
                                         </li>
                                     <li class="nav-item menu-item d-flex d-md-none" id="vehica-menu-element-menu-item-1-">
-                                          <a class="nav-link" aria-current="page" href="/my-business/auth/inicio-sesion/">Iniciar sesión</a>
+                                          <a class="nav-link" aria-current="page" href="/preview/802">Iniciar sesión</a>
                                     </li>
                                 </ul>
                             </div>
                             <!--div class="vehica-top-bar__element vehica-top-bar__element--panel d-flex  justify-content-end d-xl-none">
-                                 <a href="/" class="vehica-menu-desktop-login-register-link">
+                                 <a href="/preview/843" class="vehica-menu-desktop-login-register-link">
                                      <span class="vehica-menu-desktop-login-register-link__user-icon m-0">
                                          <i class="far fa-user"></i>
                                      </span>
@@ -131,7 +131,7 @@
                                      <div class="vehica-menu-desktop-login-register-link">
 
                                         <div class="vehica-menu-item-depth-0">
-                                             <a href="/my-business/auth/inicio-sesion/">
+                                             <a href="/preview/802">
                                                  <span class="vehica-menu-desktop-login-register-link__login-text vehica-menu-item-depth-0">
                                                      Iniciar sesión </span>
                                              </a>
@@ -152,7 +152,7 @@
                                                  <p>Comparar</p>
                                                  <button class="button-add-vehicle">
                                                      <i class="fas fa-plus"></i>
-                                                     <a href="/buscador/">Agregar un vehículo</a>
+                                                     <a href="/preview/824">Agregar un vehículo</a>
                                                  </button>
                                             </div>
                                             <div class="button-compare-dropdown-content">
@@ -189,7 +189,7 @@
                         <div class="vehica-menu-desktop-login-register-link">
 
                             <div class="vehica-menu-item-depth-0">
-                                 <a href="/my-business/auth/inicio-sesion/" class="link-login-mobile">
+                                 <a href="/preview/802" class="link-login-mobile">
                                      <span class="vehica-menu-desktop-login-register-link__login-text vehica-menu-item-depth-0">
                                          Iniciar sesión </span>
                                  </a>
@@ -209,19 +209,19 @@
                 <div class="header-menu-custom p-0">
                     <ul class="navbar-nav vehica-menu">
                             <li class="nav-item menu-item" id="vehica-menu-element-menu-item-1-5044">
-                                  <a class="nav-link" aria-current="page" href="/buscador/">Buscador</a>
+                                  <a class="nav-link" aria-current="page" href="/preview/824">Buscador</a>
                             </li>
                             <li class="nav-item menu-item" id="vehica-menu-element-menu-item-1-5046">
-                                  <a class="nav-link" aria-current="page" href="/quienes-somos/">Qui&eacute;nes somos</a>
+                                  <a class="nav-link" aria-current="page" href="/preview/780">Qui&eacute;nes somos</a>
                             </li>
                             <li class="nav-item menu-item" id="vehica-menu-element-menu-item-1-5042">
-                                  <a class="nav-link" aria-current="page" href="/blog/">Blog</a>
+                                  <a class="nav-link" aria-current="page" href="/preview/867">Blog</a>
                             </li>
                             <li class="nav-item menu-item" id="vehica-menu-element-menu-item-1-5040">
-                                  <a class="nav-link" aria-current="page" href="/servicios/">Servicios</a>
+                                  <a class="nav-link" aria-current="page" href="/preview/859">Servicios</a>
                             </li>
                             <li class="nav-item menu-item" id="vehica-menu-element-menu-item-1-5039">
-                                  <a class="nav-link" aria-current="page" href="/contacto/">Contacto</a>
+                                  <a class="nav-link" aria-current="page" href="/preview/868">Contacto</a>
                             </li>
                     </ul>
                 </div>
@@ -240,7 +240,7 @@
                          <button class="button-add-vehicle">
                              <span class="vehica-menu-item-depth-0">
                                  <i class="fas fa-plus"></i>
-                                 <a href="/buscador/">Agregar un vehículo</a>
+                                 <a href="/preview/824">Agregar un vehículo</a>
                              </span>
                          </button>
                     </div>
@@ -270,13 +270,13 @@
         <div class="container-custom">
             <div class="row gx-0">
                 <div class="col-12 breadcrumb">
-                    <a href="/">Inicio</a>
+                    <a href="/preview/843">Inicio</a>
                     <span>-</span>
-                    <a href="/buscador/">Buscador</a>
+                    <a href="/preview/824">Buscador</a>
                     <span>-</span>
-                    <a href="/buscador/?brands=13&model=37">Dodge</a>
+                    <a href="/preview/783">Dodge</a>
                     <span>-</span>
-                    <a href="/buscador/?model=37&brands=13">Neon</a>
+                    <a href="/preview/821">Neon</a>
                 </div>
             </div>
         </div>
@@ -531,7 +531,7 @@
                                                         </div>
                                                         
     <div class="col-12 col-sm-6 d-flex justify-content-start">
-            <a href="/my-business/auth/inicio-sesion/" target="_blank" class="button-add-favorites disabled">
+            <a href="/preview/802" target="_blank" class="button-add-favorites disabled">
                 <i class="far fa-star"></i> Agregar a favoritos
             </a>
     </div>
@@ -700,10 +700,10 @@
                                                                         <div class="col-12 col-lg-6">
                                                                             <div class="row gy-3">
                                                                                 <div class="col-12">
-                                                                                    <a href="/reservacion/28/" class="button-primary w-100">¡Comprar ahora!</a>
+                                                                                    <a href="/preview/782" class="button-primary w-100">¡Comprar ahora!</a>
                                                                                 </div>
                                                                                 <div class="col-12">
-                                                                                    <a href="/servicios/28/" class="button-secondary w-100">Simula tu crédito</a>
+                                                                                    <a href="/preview/790" class="button-secondary w-100">Simula tu crédito</a>
                                                                                 </div>
                                                                                 <div class="col-12">
                                                                                     <div class="vehica-car-offer-id">
@@ -890,7 +890,7 @@ Tramitamos tu cr&eacute;dito con respuesta en 24 hrs					</p>
 
                         
     <div class="col-12 col-sm-6 d-flex justify-content-start">
-            <a href="/my-business/auth/inicio-sesion/" target="_blank" class="button-add-favorites disabled">
+            <a href="/preview/802" target="_blank" class="button-add-favorites disabled">
                 <i class="far fa-star"></i> Agregar a favoritos
             </a>
     </div>
@@ -1084,10 +1084,10 @@ Tramitamos tu cr&eacute;dito con respuesta en 24 hrs					</p>
                                                 <div class="col-12 pb-4">
                                                     <div class="row gy-3">
                                                         <div class="col-12">
-                                                            <a href="/reservacion/28/" class="button-primary w-100">¡Comprar ahora!</a>
+                                                            <a href="/preview/782" class="button-primary w-100">¡Comprar ahora!</a>
                                                         </div>
                                                         <div class="col-12">
-                                                            <a href="/servicios/28/" class="button-secondary w-100">Simula tu crédito</a>
+                                                            <a href="/preview/790" class="button-secondary w-100">Simula tu crédito</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1225,7 +1225,7 @@ setTimeout(function () {
                             <div class="row">
                                 <div class="col-12 d-flex justify-content-center justify-content-md-start mb-2 mb-xl-4">
                                     <div class="vehica-logo-widget">
-                                        <a href="/" title="viraal marketplace">
+                                        <a href="/preview/843" title="viraal marketplace">
                                             <img src="/projects/viraal-marketplace/assets/media/logo-white.png" alt="Backbone-viraal">
                                         </a>
                                     </div>
@@ -1241,7 +1241,7 @@ setTimeout(function () {
                             <div class="row">
                                 <div class="col-12 d-flex justify-content-center justify-content-md-start mb-2 mb-xl-4">
                                     <div class="vehica-logo-widget">
-                                        <a href="/" title="viraal marketplace">
+                                        <a href="/preview/843" title="viraal marketplace">
                                             <img src="/projects/viraal-marketplace/assets/media/logo-white.png" alt="Backbone-viraal">
                                         </a>
                                     </div>
@@ -1253,27 +1253,27 @@ setTimeout(function () {
                             <div class="row gx-0">
                                     <div class="col-12 col-md-6">
                                         <div class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-13997">
-                                            <a href="/buscador/">Buscador</a>
+                                            <a href="/preview/824">Buscador</a>
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <div class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-13997">
-                                            <a href="/quienes-somos/">Qui&eacute;nes somos</a>
+                                            <a href="/preview/780">Qui&eacute;nes somos</a>
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <div class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-13997">
-                                            <a href="/blog/">Blog</a>
+                                            <a href="/preview/867">Blog</a>
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <div class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-13997">
-                                            <a href="/servicios/">Servicios</a>
+                                            <a href="/preview/859">Servicios</a>
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <div class="menu-item menu-item-type-post_type_archive menu-item-object-vehica_car menu-item-13997">
-                                            <a href="/contacto/">Contacto</a>
+                                            <a href="/preview/868">Contacto</a>
                                         </div>
                                     </div>
                             </div>
@@ -1310,7 +1310,7 @@ setTimeout(function () {
                     <div class="row gx-0">
                             <div class="col-12">
                                 <div class="footer-responsive-menu__item">
-                                    <a href="/buscador/">
+                                    <a href="/preview/824">
                                         Buscador
                                         <span class="fa fa-chevron-right"></span>
                                     </a>
@@ -1318,7 +1318,7 @@ setTimeout(function () {
                             </div>
                             <div class="col-12">
                                 <div class="footer-responsive-menu__item">
-                                    <a href="/quienes-somos/">
+                                    <a href="/preview/780">
                                         Qui&eacute;nes somos
                                         <span class="fa fa-chevron-right"></span>
                                     </a>
@@ -1326,7 +1326,7 @@ setTimeout(function () {
                             </div>
                             <div class="col-12">
                                 <div class="footer-responsive-menu__item">
-                                    <a href="/blog/">
+                                    <a href="/preview/867">
                                         Blog
                                         <span class="fa fa-chevron-right"></span>
                                     </a>
@@ -1334,7 +1334,7 @@ setTimeout(function () {
                             </div>
                             <div class="col-12">
                                 <div class="footer-responsive-menu__item">
-                                    <a href="/servicios/">
+                                    <a href="/preview/859">
                                         Servicios
                                         <span class="fa fa-chevron-right"></span>
                                     </a>
@@ -1342,7 +1342,7 @@ setTimeout(function () {
                             </div>
                             <div class="col-12">
                                 <div class="footer-responsive-menu__item">
-                                    <a href="/contacto/">
+                                    <a href="/preview/868">
                                         Contacto
                                         <span class="fa fa-chevron-right"></span>
                                     </a>
@@ -1368,11 +1368,11 @@ setTimeout(function () {
                 <div class="col-12 col-lg-8 d-flex flex-column justify-content-center justify-content-lg-start">
                     <div class="vehica-copyrights color-white mb-3 text-center text-lg-start">© 2025 Viraal Distribuciones, S.A. de C.V. – Todos los derechos reservados.</div>
                     <div class="links-legal d-flex flex-column flex-lg-row align-items-center justify-content-start gap-2">
-                            <a href="/terminos-y-condiciones/" class="links-legal-item">T&eacute;rminos y condiciones</a>
+                            <a href="/preview/841" class="links-legal-item">T&eacute;rminos y condiciones</a>
                             <span class="d-none d-lg-flex">/</span>
-                            <a href="/aviso-legal-y-datos-del-proveedor/" class="links-legal-item">Aviso legal y datos del proveedor</a>
+                            <a href="/preview/792" class="links-legal-item">Aviso legal y datos del proveedor</a>
                             <span class="d-none d-lg-flex">/</span>
-                            <a href="/aviso-de-privacidad/" class="links-legal-item">Aviso de privacidad</a>
+                            <a href="/preview/838" class="links-legal-item">Aviso de privacidad</a>
                             <span class="d-none d-lg-flex">/</span>
                     </div>
                 </div>
@@ -1496,7 +1496,7 @@ setTimeout(function () {
 <a href="https://wa.me/525589930081" class="whatsapp-button">
     <span class="icon icon-whatsapp"></span>
 </a>  
-    <a href="/vehiculo/58/" class="subasta-button" target="_blank">
+    <a href="/preview/819" class="subasta-button" target="_blank">
         <div class="subasta-button-main">
             <div class="subasta-button__text">
                 Participar ahora
