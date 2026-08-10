@@ -27,14 +27,14 @@
         <meta name="twitter:player:height" content="450" />
         <meta name="twitter:image" content="../../../media/bg-viraal.jpg" />
         <meta property="twitter:url" content="../../index.html" />
-        <link rel="icon" type="image/x-icon" sizes="32x32" href="/projects/viraal-autos/assets/media/favicon.png">
-        <link rel="icon" type="image/x-icon" sizes="96x96" href="/projects/viraal-autos/assets/media/favicon.png">
-        <link rel="icon" type="image/x-icon" sizes="16x16" href="/projects/viraal-autos/assets/media/favicon.png">
-        <link rel="image_src" href="/projects/viraal-autos/assets/media/bg-viraal.jpg" />
+        <link rel="icon" type="image/x-icon" sizes="32x32" href="/projects/viraal-marketplace/assets/media/favicon.png">
+        <link rel="icon" type="image/x-icon" sizes="96x96" href="/projects/viraal-marketplace/assets/media/favicon.png">
+        <link rel="icon" type="image/x-icon" sizes="16x16" href="/projects/viraal-marketplace/assets/media/favicon.png">
+        <link rel="image_src" href="/projects/viraal-marketplace/assets/media/bg-viraal.jpg" />
         <link rel="canonical" href="/my-business/" />     
 
-        <link rel="stylesheet" crossorigin href="/projects/viraal-autos/assets/media/bundle-content/MyBussinessTemplate/b926_4e0f/Main-17a8_d8f3.css">
-        <script type="module" src="/projects/viraal-autos/assets/includes/libs/js/Libraries/index.js"></script>
+        <link rel="stylesheet" crossorigin href="/projects/viraal-marketplace/assets/media/bundle-content/MyBussinessTemplate/b926_4e0f/Main-17a8_d8f3.css">
+        <script type="module" src="/projects/viraal-marketplace/assets/includes/libs/js/Libraries/index.js"></script>
     </head>
     <body>
         <noscript>You need to enable JavaScript to run this app.</noscript>

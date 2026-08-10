@@ -24,13 +24,13 @@
 <meta name="twitter:player:width" content="800">
 <meta name="twitter:player:height" content="450">
 <meta name="twitter:image" content="../../media/bg-viraal.jpg" />
-<link rel="image_src" href="/projects/viraal-autos/assets/media/bg-viraal.jpg" />
+<link rel="image_src" href="/projects/viraal-marketplace/assets/media/bg-viraal.jpg" />
 <link rel="canonical" href="/reservacion/" />
 
-<link rel="apple-touch-icon" sizes="180x180" href="/projects/viraal-autos/assets/media/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/projects/viraal-autos/assets/media/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/projects/viraal-autos/assets/media/favicon-16x16.png">
-<link rel="manifest" href="/projects/viraal-autos/assets/media/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="/projects/viraal-marketplace/assets/media/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/projects/viraal-marketplace/assets/media/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/projects/viraal-marketplace/assets/media/favicon-16x16.png">
+<link rel="manifest" href="/projects/viraal-marketplace/assets/media/site.webmanifest">
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -38,12 +38,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
     
-    <link rel="stylesheet" href="/projects/viraal-autos/assets/media/bundle-content/Header/4fdc_a606/icons-font-1e04_7107.css">
-    <link rel="stylesheet" href="/projects/viraal-autos/assets/media/bundle-content/Header/543f_3eed/emojiStyles-4607_dff4.css">
+    <link rel="stylesheet" href="/projects/viraal-marketplace/assets/media/bundle-content/Header/4fdc_a606/icons-font-1e04_7107.css">
+    <link rel="stylesheet" href="/projects/viraal-marketplace/assets/media/bundle-content/Header/543f_3eed/emojiStyles-4607_dff4.css">
   
-    <link rel="stylesheet" crossorigin href="/projects/viraal-autos/assets/media/bundle-content/Header/7299_585c/vehica-template-main-ac40_4cf7.css">
-    <link rel="stylesheet" crossorigin href="/projects/viraal-autos/assets/media/bundle-content/Header/2d60_b620/style-main-c727_1f21.css">
-    <link rel="stylesheet" crossorigin href="/projects/viraal-autos/assets/media/bundle-content/Header/61c6_dce9/custom-style-adc9_b78e.css">
+    <link rel="stylesheet" crossorigin href="/projects/viraal-marketplace/assets/media/bundle-content/Header/7299_585c/vehica-template-main-ac40_4cf7.css">
+    <link rel="stylesheet" crossorigin href="/projects/viraal-marketplace/assets/media/bundle-content/Header/2d60_b620/style-main-c727_1f21.css">
+    <link rel="stylesheet" crossorigin href="/projects/viraal-marketplace/assets/media/bundle-content/Header/61c6_dce9/custom-style-adc9_b78e.css">
   <script src="https://www.google.com/recaptcha/api.js?render=6LdFal4rAAAAAIRsUQe5JMgW73Mp4Sk9F-lJkU2r"></script>
   <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
    
@@ -82,12 +82,12 @@
                         <div class="col-8 col-xl-2 order-2 order-xl-1 d-flex justify-content-center justify-content-xl-start">
                             <div class="vehica-logo vehica-logo--white">
                                  <a href="/" title="Backbone-viraal">
-                                     <img src="/projects/viraal-autos/assets/media/logo-white.png" alt="Viraal Autos">
+                                     <img src="/projects/viraal-marketplace/assets/media/logo-white.png" alt="Viraal Autos">
                                  </a>
                              </div>
                             <div class="vehica-logo vehica-logo--blue">
                                  <a href="/" title="Backbone-viraal">
-                                     <img src="/projects/viraal-autos/assets/media/V_Autos.png" alt="Viraal Autos">
+                                     <img src="/projects/viraal-marketplace/assets/media/V_Autos.png" alt="Viraal Autos">
                                  </a>
                              </div>
                         </div>
@@ -286,7 +286,7 @@
                                         <div class="row gy-4">
                                             <div class="col-12">
                                                 <div class="booking-car-card-image">
-                                                    <img src="/projects/viraal-autos/assets/media/Vehicle_44_Image.jpeg" alt="nombre del vehiculo">
+                                                    <img src="/projects/viraal-marketplace/assets/media/Vehicle_44_Image.jpeg" alt="nombre del vehiculo">
                                                 </div>
                                             </div>
                                             <div class="col-12">
@@ -503,7 +503,7 @@
                                 <div class="col-12 d-flex justify-content-center justify-content-md-start mb-2 mb-xl-4">
                                     <div class="vehica-logo-widget">
                                         <a href="/" title="viraal marketplace">
-                                            <img src="/projects/viraal-autos/assets/media/logo-white.png" alt="Backbone-viraal">
+                                            <img src="/projects/viraal-marketplace/assets/media/logo-white.png" alt="Backbone-viraal">
                                         </a>
                                     </div>
                                 </div>
@@ -519,7 +519,7 @@
                                 <div class="col-12 d-flex justify-content-center justify-content-md-start mb-2 mb-xl-4">
                                     <div class="vehica-logo-widget">
                                         <a href="/" title="viraal marketplace">
-                                            <img src="/projects/viraal-autos/assets/media/logo-white.png" alt="Backbone-viraal">
+                                            <img src="/projects/viraal-marketplace/assets/media/logo-white.png" alt="Backbone-viraal">
                                         </a>
                                     </div>
                                 </div>
@@ -779,10 +779,10 @@
                 Participar ahora
             </div>
             <div class="subasta-button__icon">
-                <img src="/projects/viraal-autos/assets/media/subasta-icon.png">
+                <img src="/projects/viraal-marketplace/assets/media/subasta-icon.png">
             </div>
             <div class="subasta-button__points">
-                <img src="/projects/viraal-autos/assets/media/points-button.svg">
+                <img src="/projects/viraal-marketplace/assets/media/points-button.svg">
             </div>
         </div>
     </a>
@@ -1282,9 +1282,9 @@
         
         
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script src="/projects/viraal-autos/assets/media/bundle-content/Footer/1f2b_9a1a/niceselect-6708_2e9d.js"></script>
-<script src="/projects/viraal-autos/assets/media/bundle-content/Footer/69de_d128/Main-11e9_1180.js"></script>
-<script src="/projects/viraal-autos/assets/media/bundle-content/Footer/c022_0f1b/FunctionsDev-7b28_acd5.js"></script>
+<script src="/projects/viraal-marketplace/assets/media/bundle-content/Footer/1f2b_9a1a/niceselect-6708_2e9d.js"></script>
+<script src="/projects/viraal-marketplace/assets/media/bundle-content/Footer/69de_d128/Main-11e9_1180.js"></script>
+<script src="/projects/viraal-marketplace/assets/media/bundle-content/Footer/c022_0f1b/FunctionsDev-7b28_acd5.js"></script>
 
 
    

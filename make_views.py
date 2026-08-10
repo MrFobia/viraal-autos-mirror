@@ -21,7 +21,7 @@ SITE = os.path.join(ROOT, "site")
 ASSETS_OUT = os.path.join(ROOT, "assets")
 VIEWS_OUT = os.path.join(ROOT, "production", "views")
 IDMAP_FILE = os.path.join(ROOT, "preview_ids.json")
-SLUG = "viraal-autos"
+SLUG = "viraal-marketplace"
 PREFIX = f"/projects/{SLUG}/assets/"
 
 ASSET_EXT = re.compile(r"\.(css|js|png|jpe?g|gif|svg|webp|avif|ico|woff2?|ttf|otf|eot|mp4|webm|json|webmanifest|pdf)$", re.I)
